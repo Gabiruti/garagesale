@@ -8,7 +8,7 @@ Aplicativo que simula um venda de garagem, onde usuários podem vender/trocar it
 - [Node.js](https://nodejs.org/en/) - a versão que eu utilizei foi a 8.11.0.
 
 # Bibliotecas
-Todas as bibliotecas utilizadas podem ser vistas no arquivo package.json.
+Todas as bibliotecas utilizadas podem ser vistas no arquivo `package.json`.
 
 # Como executar
 Abra o terminal na pasta do projeto e execute o comando:
@@ -23,7 +23,7 @@ Em seguida, em outra janela do terminal, execute o seguinte comando para iniciar
 npx react-native run-android
 ```
 
-Após a primeira execução, o projeto pode ser iniciado apenas com o comando 'npx react-native run-android' . 
+Após a primeira execução, o projeto pode ser iniciado apenas com o comando `npx react-native run-android` . 
 
 Lembre que para o projeto funcionar a [API](https://github.com/Gabiruti/garagesaleAPI.git) do projeto deve estar em execução.
 
